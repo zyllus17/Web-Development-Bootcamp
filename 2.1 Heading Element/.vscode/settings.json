@@ -1,0 +1,9 @@
+{
+    "[json]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.json-language-features"
+      },
+      "html.suggest.html5": true,
+      "editor.linkedEditing": true,
+      "html.format.enable": true
+}
